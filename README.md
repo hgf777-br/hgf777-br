@@ -1,4 +1,4 @@
-🔭 I’m currently working on my new internal sysrem to control my print company.
+🔭 I’m currently working on my new internal system to control my print company.
 
 <!--
 **hgf777-br/hgf777-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
