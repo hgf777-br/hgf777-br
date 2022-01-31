@@ -2,7 +2,7 @@ I got my first computer in 1982. 🚀 It was a TK 82C made in Brazil with 2Kb of
 
 I really love programming!😁
 
-🔭 I’m currently working on my new internal system to control my print company.
+🔭 I’m currently working on a new internal system to control my print company production.
 
 <!--
 **hgf777-br/hgf777-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
