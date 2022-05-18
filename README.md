@@ -1,11 +1,12 @@
-< style="background-color:#000">
-<h1>Programming is FUN!!!</h1>
+# Coding is FUN!!!
 
-I got my first computer in 1982.  It was a TK 82C made in Brazil with 2Kb of RAM and no disk.
+### I am Henrique Faria and I program since my childhood
+[![Linkedin Badge](https://img.shields.io/badge/-hgf-blue)](https://www.linkedin.com/in/henrique-faria-74942934/)
 
-I really love programming!
+I got my first computer in 1982.  It was a TK 82C made in Brazil with 2Kb of RAM and no disk. :dizzy_face:
 
-🔭 I’m currently working on a new internal system to control my print company production.
+And since them I had a lot of diferent machines and learn diferent languages with each new one.
 
-[![HGF´s GitHub stats](https://github-readme-stats.vercel.app/api?username=hgf777-br&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</>
+
+
+[![HGF´s GitHub stats](https://github-readme-stats.vercel.app/api?username=hgf777-br&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
