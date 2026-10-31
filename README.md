@@ -1,7 +1,7 @@
 # Coding is FUN!!!
 
 ### I am Henrique Faria and I program since my childhood
-[![https://img.shields.io/badge/-HGF-blue?style=flat-square&logo=Linkedin&logoColor=white]](https://www.linkedin.com/in/henrique-g-faria/)
+[![Linkedin](https://img.shields.io/badge/-HGF-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-g-faria/)
 [![Code Wars](https://img.shields.io/badge/CodeWars--orange?style=flat-square)](https://www.codewars.com/users/hgf777/) 
 [![Hacker Rank](https://img.shields.io/badge/HackerRank--green?style=flat-square)](https://www.hackerrank.com/hgf777/) 
 [![Code Chef](https://img.shields.io/badge/CodeChef--brown?style=flat-square)](https://www.codechef.com/users/hgf777/)
