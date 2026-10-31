@@ -11,4 +11,4 @@ And since them I had a lot of diferent machines and learn diferent languages wit
 
 [![HGF's GitHub stats](https://github-stats-extended.vercel.app/api?username=hgf777-br)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgf777-br&hide=html,css)](https://github.com/hgf777-br/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hgf777-br&hide=html,css)](https://github.com/hgf777-br/github-readme-stats)
